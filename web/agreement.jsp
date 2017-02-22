@@ -94,7 +94,7 @@ ol li p {
         <script>
             function validateform(){
                 
-                if(document.getElementById('agree').checked)
+                if(document.getElementById("agree").checked)
                 { 
                     return true;
                 }
