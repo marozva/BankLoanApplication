@@ -93,7 +93,7 @@ ol li p {
         </style>
         <script>
             function validateform(){
-                var 
+                
                 if(document.getElementById('agree').checked)
                 { 
                     return true;
